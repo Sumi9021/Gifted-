@@ -34,7 +34,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
     <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
 ### OR
-### 1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
+### 1. <a href="https://NBsession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 
 ## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
@@ -94,7 +94,7 @@ termux-setup-storage
 
 git clone https://github.com/Prexzybooster/PREXZY-BUG-BOT
 
- cd PREXZY-BUG-BOT
+ cd NB-BUG-BOT
  
  yarn install
  
@@ -116,10 +116,10 @@ Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features,
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot NB BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+-NB KING
