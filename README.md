@@ -1,4 +1,4 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> Nb BUG BOT </h1>
 <p align="center">  
   
 ***
@@ -7,8 +7,8 @@
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+  <a href="">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/0b84ebd8a266ebb8390fe.jpg">
     <h1 align="center">PREXZY-BUG-BOT</h1>
   </a>
 </p>
@@ -38,7 +38,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 ## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
+* [![YOUTUBE]()]()
 
 ### DEPLOYMENT ON TERMUX
 
